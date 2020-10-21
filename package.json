@@ -1,0 +1,15 @@
+{
+  "name": "linters-html",
+  "version": "1.0.0",
+  "description": "Taikonauten HTML linting rules",
+  "author": "Tobias Schubert <ts@taikonauten.com>",
+  "homepage": "https://github.com/taikonauten/linters-html#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taikonauten/linters-html.git"
+  },
+  "bugs": {
+    "url": "https://github.com/taikonauten/linters-html/issues"
+  },
+  "license": "MIT"
+}
