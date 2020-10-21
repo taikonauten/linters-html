@@ -14,7 +14,7 @@ This package provides the HTML linting rules used at [Taikonauten](https://taiko
 npm install --save-dev @taikonauten/linters-html
 ```
 
-# Configuration
+## Configuration
 
 In project root create a symlink:
 
